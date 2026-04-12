@@ -5,11 +5,10 @@
 ---
 
 ### 🎯 About Me
-- 🔍 Bug Bounty Hunter — focus on **IDOR, API Security, Web Vulnerabilities**
+- 🔍 Bug Bounty Hunter Beginner
 - 🛠️ Building Python-based pentesting tools
 - 📚 Studying: **OWASP Top 10 | Network Security | SOC Operations | Red Teaming**
 - 💻 Practicing on **HackTheBox** and **TryHackMe**
-- 🎯 Goal: Land a Security Consultant / Red Team role by 2027
 
 ---
 
