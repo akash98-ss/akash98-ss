@@ -25,9 +25,7 @@
 
 ### 📌 Current Focus
 - 🏴 HackTheBox — Working through Easy machines
-- 🐛 Bug Bounty — Active on HackerOne & Bugcrowd
-- ✍️ Writing cybersecurity blogs on Medium
-- 🔨 Building: Port Scanner | Directory Brute-forcer | XSS Fuzzer
+- 🐛 Bug Bounty — HackerOne & Bugcrowd
 
 ---
 
