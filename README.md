@@ -30,6 +30,5 @@
 ---
 
 ### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](your-medium-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-shinde-861619311/)
 [![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=flat&logo=hackerone&logoColor=white)](your-h1-url)
